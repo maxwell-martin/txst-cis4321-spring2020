@@ -1,0 +1,1 @@
+All projects were created using Java in Android Studio. The projects were created for smart phones using a 4.0' generic screen. I used a Nexus 4 virtual device for testing.
