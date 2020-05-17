@@ -1,0 +1,2 @@
+{"notes":[{"Id":12,"Name":"walk","Location":"Austin"}, {"Id":20,"Name":"read", "Location":"Houston"}, {"Id":30,"Name":"write", "Location":"San Marcos"}],
+ "attractions":[{"Id":101,"Name":"Art Institute","Url":"http://artic.edu", "Cost":20.6}, {"Id":102,"Name":"Magnificent Mile", "Url":"http://themagnificentmile.com", "Cost":30.60},{"Id":103,"Name":"Willis Tower", "Url":"", "Cost": 15.25}]}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cab Fare and Car Wash</string>
+    <string name="cabFare">Cab Fare</string>                                <!--Used for MainActivity button and CabFareActivity title-->
+    <string name="carWash">Car Wash</string>                                <!--Used for MainActivity button and CarWashActivity title-->
+    <string name="txtDistanceHint">Enter distance in miles</string>         <!--Used for CabFareActivity distance EditText hint-->
+    <string-array name="spnCabTypes">                                       <!--Used for CabFareActivity spinner entries-->
+        <item>SUV</item>
+        <item>Sedan</item>
+        <item>Minivan</item>
+    </string-array>
+    <string name="spnCabTypesPrompt">Select cab preference</string>                         <!--Used for CabFareActivity spinner prompt-->
+    <string name="btnCalculateCabFare">Calculate Cab Fare</string>                          <!--Used for CabFareActivity calculate cab fare button-->
+    <string name="txtNumberOfWashesHint">Enter number of washes</string>                    <!--Used for CarWashActivity washes EditText hint-->
+    <string name="radExteriorOnly">Exterior only</string>                                   <!--Used for CarWashActivity exterior only radio button-->
+    <string name="radExteriorWithInteriorVacuum">Exterior with interior vacuum</string>     <!--Used for CarWashActivity exterior with interior vacuum radio button-->
+    <string name="btnCalculatePackage">Calculate Package</string>                           <!--Used for CarWashActivity calculate package button-->
+    <string name="txtCarWashPrompt">Select car wash type:</string>                          <!--Used for CarWashActivity extra TextView instructions-->
+</resources>

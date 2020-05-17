@@ -1,0 +1,20 @@
+{
+	"notes":[
+			{"Id":12,"Name":"walk","Location":"Austin"}, 			
+			{"Id":20,"Name":"read", "Location":"Houston"}, 			
+			{"Id":30,"Name":"write", "Location":"San Marcos"}
+	],
+ 	"attractions":	[
+				{"Id":101,"Name":"Art Institute","Url":"http://artic.edu", "Cost":20.6}, 
+				{"Id":102,"Name":"Magnificent Mile", "Url":"http://themagnificentmile.com", "Cost":30.60},
+				{"Id":103,"Name":"Willis Tower", "Url":"", "Cost": 15.25}
+	],
+	"hotels": [ 
+			{"id":71,"name":"Best Western","city":"Austin","state":"Texas","costPerDay":75.00},
+			{"id":72,"name":"Embassy Suites","city":"Denver","state":"Colorado","costPerDay":100.00},
+			{"id":73,"name":"Marriott","city":"Los Angeles","state":"California","costPerDay":150.00},
+			{"id":74,"name":"Holiday Inn","city":"Miami","state":"Florida","costPerDay":60.00},
+			{"id":75,"name":"La Quinta","city":"Boston","state":"Massachusetts","costPerDay":40.00}
+	]
+}
+		
